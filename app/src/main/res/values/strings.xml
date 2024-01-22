@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">vacaciones</string>
+    <string name="title_activity_mostrar_destino" translatable="false">MostrarDestinoActivity</string>
+    <string name="title_activity_listar_destinos" translatable="false">ListarDestinosActivity</string>
+    <string name="title_activity_editar_destino" translatable="false">EditarDestinoActivity</string>
+    <string name="title_activity_photos" translatable="false">PhotosActivity</string>
+
+    <string name="alojamiento_label">Alojamiento:</string>
+    <string name="transporte_label">Transporte:</string>
+    <string name="nombre_lugar_label">Nombre lugar:</string>
+    <string name="orden_visita_label">Orden de visita:</string>
+    <string name="foto_referencia_label">Foto referencia:</string>
+    <string name="latitud_label">Latitud:</string>
+    <string name="longitud_label">Longitud:</string>
+    <string name="comentarios_label">Comentarios:</string>
+    <string name="costo_alojamiento_label">Costo alojamiento:</string>
+    <string name="costo_transporte_label">Costo Transporte:</string>
+    <string name="guardar_label">Guardar:</string>
+    <string name="listar_label">Listar:</string>
+    <string name="ver_mas_label">Ver más:</string>
+    <string name="foto_label">Agregar foto:</string>
+
+</resources>

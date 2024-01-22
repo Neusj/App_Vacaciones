@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vacations</string>
+    <string name="alojamiento_label" >Accommodation:</string>
+    <string name="transporte_label" >Transport:</string>
+    <string name="nombre_lugar_label">Place name</string>
+    <string name="orden_visita_label">Visit order</string>
+    <string name="foto_referencia_label">Photo refence</string>
+    <string name="latitud_label">Latitude</string>
+    <string name="longitud_label">Longitude</string>
+    <string name="comentarios_label">Commentns</string>
+    <string name="costo_alojamiento_label">Accomodation cost</string>
+    <string name="costo_transporte_label">Transport cost</string>
+    <string name="guardar_label">Save</string>
+    <string name="listar_label">List</string>
+    <string name="ver_mas_label">See more</string>
+    <string name="foto_label">Add photo</string>
+</resources>
